@@ -36,7 +36,7 @@ export default function LoginScreen({ onLogin }: LoginScreenProps) {
           </div>
 
           <h1 className="text-4xl font-bold text-white text-center mb-2">
-            Veto Online Quiz Platform
+            Verto Online Quiz Platform
           </h1>
           <p className="text-white/80 text-center mb-8">
             Test your knowledge with live proctoring
