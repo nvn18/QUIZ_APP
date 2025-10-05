@@ -57,7 +57,7 @@ A full-stack, enterprise-grade online quiz application with live proctoring, cam
 - **Styling**: Tailwind CSS 3.4.1
 - **Build Tool**: Vite 5.4.2
 - **Icons**: Lucide React 0.344.0
-- **Database**: Supabase (ready for integration)
+- **Database**: Supabase and sqlLite
 
 ## Project Structure
 
