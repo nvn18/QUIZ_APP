@@ -95,7 +95,7 @@ project/
 1. **Clone the repository**
    ```bash
    git clone git@github.com:nvn18/QUIZ_APP.git
-   cd project
+   cd quizapp
    ```
 
 2. **Install dependencies**
